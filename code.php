@@ -18,7 +18,7 @@
 <div><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGrafitek.sk&tabs&width=340&height=130&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId=223174605226307" width="340" height="130" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
 </div></div>
 <div style="clear:both;"></div>
-<div class="fb-att"><a href="https://grafitek.sk" target="_blank">by Grafitek.sk</a></div>
+<div class="fb-att"><a href="https://github.com/grafitek/Floating-Facebook-Like-Box-Widget" target="_blank">by Grafitek.sk s.r.o.</a></div>
 <!--FFLBW by www.grafitek.sk -->
 </div>
 <!-- Floating Facebook Like Box Widget -->
